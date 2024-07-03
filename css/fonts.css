@@ -1,0 +1,20 @@
+/* Circular Std font */
+
+@font-face {
+  font-family: "Circular Std";
+  src: url("../fonts/circular-std/CircularStd-Medium.eot");
+  src: local("Circular Std Medium"), local("CircularStd-Medium"),
+    url("../fonts/circular-std/CircularStd-Medium.woff2") format("woff2"),
+    url("../fonts/circular-std/CircularStd-Medium.woff") format("woff"),
+    url("../fonts/circular-std/CircularStd-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Inter font */
+@font-face {
+  font-family: "Inter";
+  src: url("../fonts/Inter/static/Inter-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
